@@ -1,3 +1,6 @@
+## Nama : Widya Ayu Anggraini
+## NIM : 2409106011    
+
 # 🏨 Sistem Manajemen Pengelolaan & Reservasi Hotel
 
 Program berbasis **Java** untuk mengelola data tamu dan reservasi hotel melalui antarmuka menu berbasis teks (CLI). Program ini dibuat sebagai tugas praktikum **Pemrograman Berorientasi Objek (PBO)** menggunakan konsep **Class, Object, Constructor, Getter/Setter**, dan **CRUD dengan ArrayList**.
